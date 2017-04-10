@@ -19,6 +19,7 @@ public class SampleRep {
         
         int o = 0;
         String teste = "Frank";
+        String palo= "ppp";
     }
     
 }
