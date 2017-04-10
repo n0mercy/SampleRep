@@ -18,6 +18,7 @@ public class SampleRep {
         // TODO code application logic here
         
         int o = 0;
+        String teste = "Frank";
     }
     
 }
